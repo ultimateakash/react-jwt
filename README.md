@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# JWT Authentication In React
+
+<p align="center"><img src="https://github.com/ultimateakash/react-jwt/blob/master/public/react-jwt.png"></p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
